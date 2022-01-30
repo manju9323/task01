@@ -1,0 +1,13 @@
+object in java script;
+
+ an object is a collection of related data from source or functionality
+an object of values are declared in variabels.
+an object of containing values are in numbers, string, array data, boolean.
+an object also contain function.
+an object also have dot notation to access an objects members.
+an object have this keyword,
+
+http1 and http2;
+HTTP2 is much faster and more reliable than HTTP1. HTTP1 loads a single request for every TCP connection, while HTTP2 avoids network delay by using multiplexing.
+
+http2 is more reliabel and secure, and its mainly faster transfer protocal now a days.  
